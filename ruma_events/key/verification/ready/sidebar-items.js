@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ReadyEventContent","The payload for `ReadyEvent`."],["RedactedReadyEventContent","The payload for a redacted `ReadyEventContent`"]],"type":[["ReadyEvent","Response to a previously sent m.key.verification.request message."]]});

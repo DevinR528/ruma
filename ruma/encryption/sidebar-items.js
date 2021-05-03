@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DeviceKeys","Identity keys for a device."],["UnsignedDeviceInfo","Additional data added to device key information by intermediate servers."]]});

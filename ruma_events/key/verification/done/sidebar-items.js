@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DoneEventContent","The payload for `DoneEvent`."],["RedactedDoneEventContent","The payload for a redacted `DoneEventContent`"]],"type":[["DoneEvent","Event signaling that the interactive key verification has successfully concluded."]]});

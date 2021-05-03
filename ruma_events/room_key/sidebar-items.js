@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RoomKeyEventContent","The payload for `RoomKeyEvent`."]],"type":[["RoomKeyEvent","Typically encrypted as an m.room.encrypted event, then sent as a to-device event."],["RoomKeyToDeviceEventContent","The to-device version of the payload for the `RoomKeyEvent`."]]});

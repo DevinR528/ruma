@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DummyEventContent","The payload for `DummyEvent`."]],"type":[["DummyEvent","This event type is used to indicate new Olm sessions for end-to-end encryption."],["DummyToDeviceEventContent","The to-device version of the payload for the `DummyEvent`."]]});

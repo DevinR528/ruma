@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NameEventContent","The payload for `NameEvent`."],["RedactedNameEventContent","The payload for a redacted `NameEventContent`"]],"type":[["NameEvent","The room name is a human-friendly string designed to be displayed to the end-user."]]});
